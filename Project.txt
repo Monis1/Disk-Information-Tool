@@ -999,4 +999,5 @@ mov ebx,lengthof prompt12
 call writestring
 invoke ExitProcess,0
 main endp
+>>>>>>> b58ca8f8d59b14bb3cf8797baa91b3b101a705cf
 end main
